@@ -1,6 +1,5 @@
 const LinksSocialMedia = {
   github: 'alexxleal',
-  youtube: 'https://www.youtube.com',
   facebook: 'AlexLeal1974',
   instagram: 'alexleal1974',
   twitter: 'AlDesign74'
